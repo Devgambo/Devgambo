@@ -1,7 +1,6 @@
-
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Hi!+I'm+Priyanshu+and+I+can+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Hi!+I'm+Priyanshu+and+I+code." alt="Typing SVG" />
 </p>
 
 <!-- Contact Badges -->
@@ -18,9 +17,6 @@
   <a href="https://www.instagram.com/priyyyansshu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.reddit.com/user/Ok-Tax6306" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
   <a href="https://devgambo-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
@@ -31,8 +27,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
-
-
 
 ## 👨‍💻 About Me
 
@@ -48,7 +42,7 @@
 <table>
   <tr>
     <td><b>Languages</b></td>
-<td>
+    <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -75,7 +69,7 @@
   <tr>
     <td><b>Backend & DevOps</b></td>
     <td>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -84,7 +78,7 @@
   </tr>
   <tr>
     <td><b>AI / ML / GenAI</b></td>
-   <td>
+    <td>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
       <img src="https://img.shields.io/badge/LLMs-6E57E0?style=flat"/>
@@ -107,13 +101,45 @@
   </tr>
 </table>
 
+## 🚀 Currently Working On
+
+- 🏗️ Building scalable LMS platform with Next.js and Sanity CMS at **Inxtinct Security**
+- 🔐 Developing secure REST APIs with JWT authentication and RBAC
+- ☁️ Managing AWS EC2 deployments for production-grade applications
+- 🤖 Exploring advanced RAG architectures and agentic workflows with LangGraph
+
 ## 💼 Experience
 
-**developer @ onQuest**
-* Developing onQuest, a travel platform designed to generate personalized itineraries based on user-defined budgets and destinations.
-* Engaging in the full software development lifecycle, from feature design and implementation to testing and deployment in a live product environment.
+**SDE Intern @ [Inxtinct Security](https://www.inxtinct.co/)** | *Dec 2025 - Current*  
+  [Check my work](https://github.com/priyanshu-Inxtinct)
+* Architecting and deploying a scalable Learning Management System using Next.js, Sanity CMS, and PostgreSQL
+* Engineering secure REST APIs with encrypted data storage, JWT-based authentication, role-based authorization, and rate limiting
+* Managing AWS EC2 infrastructure deployment, optimizing for reliability, scalability, and high-performance delivery
 
+**Developer @ [onQuest](https://onquest.in/)** | *Feb 2025 - May 2025*
+* Engineered onQuest, a personalized travel platform generating custom itineraries based on user-defined budgets and destinations
+* Executed full software development lifecycle including feature design, implementation, testing, and production deployment
+* Collaborated with cross-functional teams to deliver seamless user experiences
 
+## 🛠️ Projects
+
+### 🌐 Full Stack Projects
+- **[HackVerse](https://github.com/Devgambo/hackverse)** - Comprehensive hackathon management platform with event creation, team formation, and project submissions
+- **[CodeSync](https://github.com/Devgambo/CodeSync)** - Code, draw, and brainstorm in real-time with an AI-powered collaborative workspace.
+- **[SlotSwapper](https://github.com/Devgambo/SlotSwapper)** - The seamless marketplace for trading time slots and optimizing schedules instantly.
+
+### 📱 App Dev Projects
+- **[Ultcom](https://github.com/Devgambo/ultcom)** - The ultimate chat app in progress...
+
+### 🤖 AI Projects
+- **[AI Compliance Checker](https://github.com/Devgambo/Automated-IS-Code-Compliance-Checker)** - Automating structural safety by bridging RCC engineering with Gemini Vision AI.
+- **[FinSage](https://github.com/Devgambo/FinSage)** - Secure, RAG-powered financial intelligence with enterprise-grade access control.
+- **[Ai-fitness-coach](https://github.com/Devgambo/AI-fitness-coach)** - Your 24/7 AI trainer and nutritionist engineered for personalized peak performance.
+- **[Shoreline Prediction](https://github.com/Devgambo/Shoreline_Analysis)** - Applying predictive data science to forecast and protect coastal geography.
+  
+### ⛓️ Web3 Projects
+- **[FitStake](https://github.com/Devgambo/fitStake)** - Decentralized fitness staking platform incentivizing healthy habits with smart contracts.
+- **[PokeWars](https://github.com/Kushagra1122/PokiWars)** - A high-stakes multiplayer RPG shooter powered by a player-owned blockchain economy.
 
 ## 📈 GitHub Stats
 
@@ -126,34 +152,36 @@
   </a>
   <br />
   <a href="https://github.com/Devgambo">
-    <img src="https://raw.githubusercontent.com/Devgambo/Devgambo/output/snake.svg" alt="Snake animation" />  </a>
+    <img src="https://raw.githubusercontent.com/Devgambo/Devgambo/output/snake.svg" alt="Snake animation" />
+  </a>
 </div>
 
 ---
+
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/Kushagra124/">
+  <a href="https://leetcode.com/PriyanshuRai2005/">
     <img src="https://leetcard.jacoblin.cool/PriyanshuRai2005?ext=contest" alt="LeetCode Profile" />
   </a>
 </p>
 
 ## 🎓 Education
 
-- *National Institute of Technology Karnataka (NITK)*  
+- **National Institute of Technology Karnataka (NITK)**  
   B.Tech in Civil Engineering (2023–2027)  
-  Minor Degree in IT (2024-2027)
+  Minor Degree in IT (2024-2027)  
+  GPA: 8.41 (Major), 9.00 (Minor)
 
 ## 🌍 Languages
 
-- 🇬🇧 *English* — Fluent  
-- 🇮🇳 *Hindi* — Native
+- 🇬🇧 **English** — Fluent  
+- 🇮🇳 **Hindi** — Native
 
 ---
 
 <img align="right" height="200" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" />
 <p align="center"><b>धन्यवादः</b></p>
-<p align="center"><b>Thankyou</b></p>
-<p align="center"><b> 감사합니다</b></p>
-<p align="center"><b> ありがとう</b></p>
-
+<p align="center"><b>Thank you</b></p>
+<p align="center"><b>감사합니다</b></p>
+<p align="center"><b>ありがとう</b></p>
