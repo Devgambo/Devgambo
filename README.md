@@ -79,7 +79,6 @@
   <tr>
     <td><b>AI / ML / GenAI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
       <img src="https://img.shields.io/badge/LangGraph-6E57E0?style=flat"/>
       <img src="https://img.shields.io/badge/LLMs-6E57E0?style=flat"/>
