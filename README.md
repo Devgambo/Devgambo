@@ -81,11 +81,9 @@
     <td>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
-      <img src="https://img.shields.io/badge/LLMs-6E57E0?style=flat"/>
-      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/LangGraph-6E57E0?style=flat"/>
+      <img src="https://img.shields.io/badge/LLMs-6E57E0?style=flat"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/crewAI-1A73E8?style=flat"/>
     </td>
   </tr>
