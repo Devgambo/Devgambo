@@ -14,6 +14,9 @@
   <a href="https://peerlist.io/devgambo" target="_blank">
     <img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" />
   </a>
+  <a href="https://codeforces.com/profile/Devgambo808" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/priyyyansshu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -30,12 +33,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Civil Engineering @ **NITK**
-- 🤖 Minor degree in IT
-- 💡 Passionate about building at the intersection of infrastructure and information
-- 🤖 Diving deep into **Generative AI** and **LLMs**
-- ⛓️ Actively exploring **Web3** and decentralized technologies
-- 🚀 Seeking new challenges in Full Stack, AI and Web3
+- B.Tech Major in Civil Engineering and Minor in IT @ **NITK**
+- Building in Full-Stack + GenAI
+- Going deep into Backend Engineering and LLMs
 
 ## ⚡ Tech Stack
 
@@ -100,10 +100,10 @@
 
 ## 🚀 Currently Working On
 
-- 🏗️ Building scalable LMS platform with Next.js and Sanity CMS at **Inxtinct Security**
-- 🔐 Developing secure REST APIs with JWT authentication and RBAC
-- ☁️ Managing AWS EC2 deployments for production-grade applications
-- 🤖 Exploring advanced RAG architectures and agentic workflows with LangGraph
+- Building scalable LMS platform with Next.js and Sanity CMS at **Inxtinct Security**
+- Developing secure REST APIs with JWT authentication and RBAC
+- Managing AWS EC2 deployments for production-grade applications
+- Exploring advanced RAG architectures and agentic workflows with LangGraph
 
 ## 💼 Experience
 
@@ -162,6 +162,7 @@
     <img src="https://leetcard.jacoblin.cool/PriyanshuRai2005?ext=contest" alt="LeetCode Profile" />
   </a>
 </p>
+
 
 ## 🎓 Education
 
